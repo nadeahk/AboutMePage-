@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://c1.staticflickr.com/9/8032/7895508450_3f8ccc5a2f_b.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  backgroundlyZ-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+h1{ color: white; 
+   text-align: center;
+  
+  
+  
+}
+p { color: white; 
+   text-align: center;
+  
+}
