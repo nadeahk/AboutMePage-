@@ -1,17 +1,26 @@
 body {
   background-image: url ("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg")
-  height: 500px; /* You must set a specified height */
+  height: 50px; /* You must set a specified height */
   backgroundlyZ-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
+
 h1{ color: white; 
    text-align: center;
   
-  
-  
+  #box {
+  height: 90px;
+  width: 270px;
+  background: #000;
+  font-size: 48px;
+  font-style: oblique;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 5px;
+  display: table-cell;
+  vertical-align: middle;
 }
-p { color: white; 
-   text-align: center;
   
-}
+  
